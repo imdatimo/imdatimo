@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm imdatimo</h1>
 <h3 align="center">A software developer with a passion for music</h3>
 
-- 🔭 I’m currently working on [Benim Belediyem](https://benimbelediyem.cf/)
+- 🔭 I’m currently working on [imdatimo | link](https://imdatimo.ml/)
 
 - 🌱 I’m currently learning **React**
 
@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/imdatimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imdatimo" height="30" width="40" /></a>
 <a href="https://instagram.com/imdatimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imdatimo" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/imdatimo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imdatimo" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/hr9pBm9Yq3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/hr9pBm9Yq3" height="30" width="40" /></a>
